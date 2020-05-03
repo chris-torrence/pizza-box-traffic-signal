@@ -1,0 +1,22 @@
+{
+    "name": "Traffic Signal",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "MakerBit": "github:1010technologies/pxt-makerbit#v1.3.5",
+        "pxt-comment-block": "github:iowadave/pxt-comment-block#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
