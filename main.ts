@@ -59,11 +59,11 @@ let Green1 = 0
 let Yellow1 = 0
 let Red1 = 0
 basic.showLeds(`
-    # . . . #
-    # # . # #
-    # . # . #
-    # . . . #
-    # . . . #
+    # # # # #
+    . . # . .
+    . . # . .
+    . . # . .
+    . . # . .
     `)
 basic.pause(1000)
 led.enable(false)
